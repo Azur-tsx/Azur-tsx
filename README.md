@@ -14,7 +14,7 @@ I'm a:
 
 <img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Discord_logo.svg" style="padding-right:10px;" /> Blinz#1595
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Gmail_icon_(2020).svg" style="padding-right:10px;" />
+<img align="left" alt="Mail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Gmail_icon_(2020).svg" style="padding-right:10px;" /> blinzhds@gmail.com
 
 ### Languages and Tools:
 
