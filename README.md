@@ -12,7 +12,8 @@ I'm a :
 
 ### Reach me :
 
-<img align="left" alt="Discord" width="26px" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" style="padding-right:10px;" /> Blinz#1595
+<img align="left" alt="Discord" width="26px" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" style="padding-right:10px;" />
+Blinz#1595
 
 <img align="left" alt="Mail" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" style="padding-right:10px;" /> blinzhds@gmail.com
 
