@@ -12,9 +12,9 @@ I'm a :
 
 ### Reach me :
 
-<img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Discord_logo.svg" style="padding-right:10px;" /> Blinz#1595
+<img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/Discord_logo.svg" style="padding-right:10px;" /> Blinz#1595
 
-<img align="left" alt="Mail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Gmail_icon_(2020).svg" style="padding-right:10px;" /> blinzhds@gmail.com
+<img align="left" alt="Mail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/Gmail_icon_(2020).svg" style="padding-right:10px;" /> blinzhds@gmail.com
 
 ### Languages and Tools :
 
