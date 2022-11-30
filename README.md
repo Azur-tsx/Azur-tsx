@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-I'm a: 
+I'm a : 
 - junior web developer currently learning full-stack websites development to create my dream projects in the future 🙌
 - curious guy who wouldn't have enough of one life to get the answers to all his questions 🎇
 - React enthusiast ⚛️
 - CSS / flexbox lover ❤
 
-### My Stats:
+### My Stats :
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=RemyCTRZ&show_icons=true)
 
-### Reach me:
+### Reach me :
 
 <img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Discord_logo.svg" style="padding-right:10px;" /> Blinz#1595
 
 <img align="left" alt="Mail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Gmail_icon_(2020).svg" style="padding-right:10px;" /> blinzhds@gmail.com
 
-### Languages and Tools:
+### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
