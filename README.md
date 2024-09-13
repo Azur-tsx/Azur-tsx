@@ -2,7 +2,7 @@
 
 I'm a : 
 - junior web developer currently learning full-stack websites development to create my dream projects in the future 🙌
-- curious guy who wouldn't have enough of one life to get the answers to all his questions 🎇
+- curious guy who wouldn't have enough of one life to get the answers to all of his questions 🎇
 - React enthusiast ⚛️
 - CSS / flexbox lover ❤
 
