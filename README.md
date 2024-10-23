@@ -6,10 +6,6 @@ I'm a :
 - React enthusiast ⚛️
 - CSS / flexbox lover ❤
 
-### My Stats :
-
-![GHstats](https://github-readme-stats.vercel.app/api?username=RemyCTRZ&show_icons=true)
-
 ### Reach me :
 
 <img align="left" alt="Discord" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" /> remy_cottrez
