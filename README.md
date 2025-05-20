@@ -34,6 +34,10 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 > "We’re not here to piss code."  
 > "Cheating isn’t bad — getting caught is."
+> "No worries, VS Code is probably the one at fault. Again."
+> "Of course I’ll check your code again. Maybe this time the bug fixed itself out of pity."
+> "Sure, let me drop everything to confirm that yes, the file you’re importing doesn’t exist."
+> "Of course I can come take a look for the 36th time, just to help you realize you misspelled `styles.css` again."
 
 ## 🚧 Work in Progress
 
