@@ -2,14 +2,14 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VubTJ0dnlsZ3F4NHE0aGQ5Yzg2aWdjN2htOGl6ZGtvbDB0OHF3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RemyCTRZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RemyCTRZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VubTJ0dnlsZ3F4NHE0aGQ5Yzg2aWdjN2htOGl6ZGtvbDB0OHF3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
 
@@ -41,11 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
