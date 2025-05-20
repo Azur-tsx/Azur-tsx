@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **React, HTML, CSS, JS**
 
-- 📫 How to reach me **remycottrez@gmail.com**
-
 - ⚡ Fun fact **I often spend more time optimizing things than it would take to just leave them unoptimized**
 
 <h3 align="left">Languages and Tools:</h3>
