@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-Hi, I’m Azur — fullstack web developer & trainer, part-time bug exorcist, full-time CSS survivor.  
+Hi, I’m Azur — fullstack web developer, part-time bug exorcist, full-time CSS survivor.  
 I also train soon-to-be devs to suffer professionally.
 
 I code, I teach, and I question my life choices every time Docker says “it works on my machine” and then... doesn’t.
