@@ -50,7 +50,7 @@ It takes time when you spend 3 hours refactoring a `div` just to center it.
 
 ## 📬 Contact
 
-🧠 remy.cottrez@proton.me  
+🧠 azur-tsx@proton.me 
 🕳️ Or whisper into the void. I might hear it.
 
 ---
