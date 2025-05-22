@@ -11,6 +11,8 @@ I code, I teach, and I question my life choices every time Docker says “it wor
 
 ## 🔧 My (Un)Holy Stack
 
+<center>
+  
 | 🖼️ Frontend                                                                                                      | ⚙️ Backend                                                                                                        | 🧰 Miscellaneous                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)                | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)          | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)          |
@@ -20,6 +22,7 @@ I code, I teach, and I question my life choices every time Docker says “it wor
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)               | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)                |     |
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB) |                                                                                                                   |                                                                                                          |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)          |                                                                                                                   |                                                                                                          |
+</center>
 
 
 ### Front-end 
