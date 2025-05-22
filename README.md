@@ -60,7 +60,7 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 <img src="./assets/devhub.svg" alt="devhub logo"/>
 
 - [Does My Mouse Work](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.
-<img src="./assets/dmmw.svg" alt="dmmw logo"/>
+<img src="./assets/dmmw.svg" alt="dmmw logo" href="https://Azur-tsx.github.io/DMMW/"/>
 
 - [README Factory](https://azur-tsx.github.io/README-Factory/) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.
 <img src="./assets/rmf.svg" alt="rmf logo"/>
