@@ -63,6 +63,8 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 <img src="./assets/dmmw.svg" alt="dmmw logo"/>
 
 - [README Factory](https://github.com/Azur-tsx/readme-factory) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.
+<img src="./assets/rmf.svg" alt="rmf logo"/>
+
 - **Mileage tracker app for caregivers** — Backend worked great… until the frontend started modifying the wrong row. I’m fine, thanks for asking.
 
 ## 💬 Dev Quotes I Actually Use
