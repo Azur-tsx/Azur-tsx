@@ -27,7 +27,9 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 ## 🧪 Side Projects
 
-- [Does My Mouse Work](https://remyctrz.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.
+- [Does My Mouse Work](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.
+- [DevHub](https://github.com/Azur-tsx/DevHub) — A resource hub I created to help my students survive the web dev jungle. If it saves them one StackOverflow visit, it’s already a win.
+- [README Factory](https://github.com/Azur-tsx/readme-factory) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.
 - **Mileage tracker app for caregivers** — Backend worked great… until the frontend started modifying the wrong row. I’m fine, thanks for asking.
 
 ## 💬 Dev Quotes I Actually Use
@@ -46,7 +48,7 @@ It takes time when you spend 3 hours refactoring a `div` just to center it.
 
 ## 📈 Useless Stats That Look Cool
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remyctrz&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azur-tsx&layout=compact&langs_count=8&theme=tokyonight)
 
 ## 📬 Contact
 
