@@ -56,6 +56,8 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 ## 🧪 Side Projects
 
+<img src="./assets/dmmw.svg" alt="DWWM logo" width="100"/>
+
 - [Does My Mouse Work](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.
 - [DevHub](https://github.com/Azur-tsx/DevHub) — A resource hub I created to help my students survive the web dev jungle. If it saves them one StackOverflow visit, it’s already a win.
 - [README Factory](https://github.com/Azur-tsx/readme-factory) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.
