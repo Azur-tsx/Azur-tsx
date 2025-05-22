@@ -13,8 +13,8 @@ I code, I teach, and I question my life choices every time Docker says “it wor
 
 ## 🛠️ My (Un)Holy Stack
 
-<center>
-### 🖼️ Frontend
+
+<h3 align="center"> 🖼️ Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +25,7 @@ I code, I teach, and I question my life choices every time Docker says “it wor
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -34,15 +34,13 @@ I code, I teach, and I question my life choices every time Docker says “it wor
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧪 Miscellaneous
+<h3 align="center">🧪 Miscellaneous</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
-</center>
 
 | 🖼️ Frontend                                                                                                      | ⚙️ Backend                                                                                                        | 🧰 Miscellaneous                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
