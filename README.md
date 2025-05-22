@@ -11,7 +11,7 @@ I code, I teach, and I question my life choices every time Docker says “it wor
 
 ## 🔧 My (Un)Holy Stack
 
-- **Frontend:** React, HTML, CSS (raw, because frameworks are for the weak), TypeScript, React Native, Next.js, Figma  
+- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) React, HTML, CSS (raw, because frameworks are for the weak), TypeScript, React Native, Next.js, Figma  
 - **Backend:** Node.js, Express, Swagger, MongoDB, PostgreSQL, MySQL  
 - **Miscellaneous:** Vite, bun, and an ongoing love-hate relationship with Docker
 
