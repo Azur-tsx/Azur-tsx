@@ -58,6 +58,7 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 - [DevHub](https://github.com/Azur-tsx/DevHub) — A resource hub I created to help my students survive the web dev jungle. If it saves them one StackOverflow visit, it’s already a win.
 <img src="./assets/devhub.svg" alt="devhub logo"/>
+
 - [Does My Mouse Work](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.
 <img src="./assets/dmmw.svg" alt="dmmw logo"/>
 
