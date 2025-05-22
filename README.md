@@ -23,6 +23,8 @@ I code, I teach, and I question my life choices every time Docker says “it wor
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
+---
+
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -31,6 +33,8 @@ I code, I teach, and I question my life choices every time Docker says “it wor
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 <h3 align="center">🧪 Miscellaneous</h3>
 <p align="center">
