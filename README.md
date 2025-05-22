@@ -13,6 +13,7 @@ I code, I teach, and I question my life choices every time Docker says “it wor
 
 ## 🛠️ My (Un)Holy Stack
 
+<center>
 ### 🖼️ Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -40,6 +41,8 @@ I code, I teach, and I question my life choices every time Docker says “it wor
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+</center>
 
 | 🖼️ Frontend                                                                                                      | ⚙️ Backend                                                                                                        | 🧰 Miscellaneous                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
