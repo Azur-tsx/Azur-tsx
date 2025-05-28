@@ -92,4 +92,4 @@ It takes time when you spend 3 hours refactoring a `div` just to center it.
 
 ---
 
-> _If you're still reading this, fork this README. You deserve better. So do I._
+> _If you're still reading this, please leave. You deserve better. So do I._
