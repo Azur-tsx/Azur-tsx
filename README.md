@@ -56,13 +56,13 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 ## 🧪 Side Projects
 
-- [DevHub](https://Azur-tsx.github.io/devhub/) — A resource hub I created to help my students survive the web dev jungle. If it saves them one ChatGPT prompt, it’s already a win.  
+- [DevHub (FR)](https://Azur-tsx.github.io/devhub/) — A resource hub I created to help my students survive the web dev jungle. If it saves them one ChatGPT prompt, it’s already a win.  
 <a href="https://Azur-tsx.github.io/devhub"><img src="./assets/devhub.svg" alt="devhub logo"/></a>
 
-- [Does My Mouse Work](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.  
+- [Does My Mouse Work (EN)](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.  
 <a href="https://Azur-tsx.github.io/DMMW"><img src="./assets/dmmw.svg" alt="dmmw logo"/></a>
 
-- [README Factory](https://azur-tsx.github.io/README-Factory/) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.  
+- [README Factory (FR)](https://azur-tsx.github.io/README-Factory/) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.  
 <a href="https://Azur-tsx.github.io/README-Factory/"><img src="./assets/rmf.svg" alt="rmf logo"/></a>
 
 - **Mileage tracker app for caregivers** — Backend worked great… until the frontend started modifying the wrong row. I’m fine, thanks for asking.
