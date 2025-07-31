@@ -65,8 +65,8 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 - **[README Factory (FR)](https://azur-tsx.github.io/README-Factory/)** — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.  
 <a href="https://Azur-tsx.github.io/README-Factory/"><img src="./assets/rmf.svg" alt="rmf logo"/></a>
 
-- **KMEasy (FR)** — A mileage tracker for caregivers and field workers who'd rather not spend their evenings doing math.
-Just enter the addresses you visit, and KMEasy will calculate your routes automatically using the Google Maps API.
+- **KMEasy (FR)** — A mileage tracker for caregivers and field workers who'd rather not spend their evenings doing math.   
+Just enter the addresses you visit, and KMEasy will calculate your routes automatically using the Google Maps API.   
 The backend is solid. The frontend? Let’s say it’s… on a personal growth journey.
 
 ## 🚧 Work in Progress
