@@ -56,16 +56,16 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 ## 🧪 Side Projects
 
-- [DevHub (FR)](https://Azur-tsx.github.io/devhub/) — A resource hub I created to help my students survive the web dev jungle. If it saves them one ChatGPT prompt, it’s already a win.  
+- **[DevHub (FR)](https://Azur-tsx.github.io/devhub/)** — A resource hub I created to help my students survive the web dev jungle. If it saves them one ChatGPT prompt, it’s already a win.  
 <a href="https://Azur-tsx.github.io/devhub"><img src="./assets/devhub.svg" alt="devhub logo"/></a>
 
-- [Does My Mouse Work (EN)](https://Azur-tsx.github.io/DMMW/) — a completely serious tool to check if your mouse is alive. You're welcome.  
+- **[Does My Mouse Work (EN)](https://Azur-tsx.github.io/DMMW/)** — a completely serious tool to check if your mouse is alive. You're welcome.  
 <a href="https://Azur-tsx.github.io/DMMW"><img src="./assets/dmmw.svg" alt="dmmw logo"/></a>
 
-- [README Factory (FR)](https://azur-tsx.github.io/README-Factory/) — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.  
+- **[README Factory (FR)](https://azur-tsx.github.io/README-Factory/)** — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.  
 <a href="https://Azur-tsx.github.io/README-Factory/"><img src="./assets/rmf.svg" alt="rmf logo"/></a>
 
-- KMEasy (FR) — A mileage tracker for caregivers and field workers who'd rather not spend their evenings doing math.
+- **KMEasy (FR)** — A mileage tracker for caregivers and field workers who'd rather not spend their evenings doing math.
 Just enter the addresses you visit, and KMEasy will calculate your routes automatically using the Google Maps API.
 The backend is solid. The frontend? Let’s say it’s… on a personal growth journey.
 
