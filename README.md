@@ -69,15 +69,6 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 Just enter the addresses you visit, and KMEasy will calculate your routes automatically using the Google Maps API.
 The backend is solid. The frontend? Let’s say it’s… on a personal growth journey.
 
-## 💬 Dev Quotes I Actually Use
-
-> "We’re not here to piss code."  
-> "Cheating isn’t bad — getting caught is."  
-> "No worries, VS Code is probably the one at fault. Again."  
-> "Of course I’ll check your code again. Maybe this time the bug fixed itself out of pity."  
-> "Sure, let me drop everything to confirm that yes, the file you’re importing doesn’t exist."  
-> "Of course I can come take a look for the 36th time, just to help you realize you misspelled `styles.css` again."
-
 ## 🚧 Work in Progress
 
 I’m polishing my old projects to build a proper portfolio.  
