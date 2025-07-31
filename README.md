@@ -67,7 +67,6 @@ I use GitHub as an educational tool to create briefs, tasks, and commit messages
 
 - **KMEasy (FR)** — A mileage tracker for caregivers and field workers who'd rather not spend their evenings doing math.   
 Just enter the addresses you visit, and KMEasy will calculate your routes automatically using the Google Maps API.   
-The backend is solid. The frontend? Let’s say it’s… on a personal growth journey.
 
 ## 🚧 Work in Progress
 
