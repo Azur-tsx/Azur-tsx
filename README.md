@@ -1,87 +1,61 @@
-# 👾 Azur — Cursed Dev, Still Functional™
-
-> _“I spend most of my time optimizing things that would take less time to be left unoptimized.”_
-
-## 🧠 About Me
-
-Hi, I’m Azur — fullstack web developer, part-time bug exorcist, full-time CSS survivor.  
-I also train soon-to-be devs to suffer professionally.
-
-I code, I teach, and I question my life choices every time Docker says “it works on my machine” and then... doesn’t.
-
-## 🛠️ My (Un)Holy Stack
-
-
-<h3 align="center"> 🖼️ Frontend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/azur-logo-blanc.svg"/>
+    <img src="./assets/azur-logo.svg" alt="Azur" height="64"/>
+  </picture>
+</p>
+
+<p align="center">
+  <b>Freelance web developer & web development trainer</b><br/>
+  Clean, fast and accessible websites — built with care, explained with patience.
+</p>
+
+<p align="center">
+  <a href="mailto:azur-tsx@proton.me">azur-tsx@proton.me</a>
 </p>
 
 ---
 
-<h3 align="center">⚙️ Backend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+## About me
+
+I'm **Azur**, a freelance web developer and a trainer for future web developers.
+
+- 🎓 Certified **Concepteur Développeur d'Applications** (CDA, Bac+3/4)
+- 💼 Freelance since 2024 — showcase sites, web apps and redesigns for small businesses
+- 🧑‍🏫 Trainer since 2024 — HTML, CSS, JavaScript and React for junior developers
+- 🇫🇷 French · 🇬🇧 English (C1)
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
----
+## Featured projects
 
-<h3 align="center">🧪 Miscellaneous</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+| Project | What it is |
+|---|---|
+| **[DevHub](https://azur-tsx.github.io/devhub/)** | A curated resource hub for web development students: guides, links and references, organised by technology. |
+| **[README Factory](https://azur-tsx.github.io/README-Factory/)** | A guided generator that turns a few answers into a clean README for student projects. |
+| **[Working as Intended](https://github.com/Azur-tsx/Working_as_Intended)** | A parody patch-notes site built with Astro, written to read exactly like the real thing. |
+| **KMEasy** | A mileage tracker for caregivers and field workers: enter the addresses, routes are calculated via the Google Maps API. |
 
-💀 *I dislike PHP with passion, avoid CSS frameworks like the plague, and believe every site deserves more soul than Bootstrap gray.*
+## Teaching
 
-## 🧑‍🏫 Developer Trainer IRL
+I design hands-on briefs for two kinds of learners: **web integrators** (semantic HTML, responsive CSS, accessibility) and **full-stack developers** (JavaScript, React, APIs, testing, Docker). Many of my repositories are training material — briefs, templates and correction projects.
 
-I train two kinds of people:
-- **Web integrators** who fight their first battles against `float`, `position: absolute`, and their own patience.
-- **Full-stack devs** who get hit with Symfony, Docker, UML diagrams, automated tests, and despair.
+## Contact
 
-I use GitHub as an educational tool to create briefs, tasks, and commit messages that say more about life than any philosopher could.
-
-## 🧪 Side Projects
-
-- **[DevHub (FR)](https://Azur-tsx.github.io/devhub/)** — A resource hub I created to help my students survive the web dev jungle. If it saves them one ChatGPT prompt, it’s already a win.  
-<a href="https://Azur-tsx.github.io/devhub"><img src="./assets/devhub.svg" alt="devhub logo"/></a>
-
-- **[Does My Mouse Work (EN)](https://Azur-tsx.github.io/DMMW/)** — a completely serious tool to check if your mouse is alive. You're welcome.  
-<a href="https://Azur-tsx.github.io/DMMW"><img src="./assets/dmmw.svg" alt="dmmw logo"/></a>
-
-- **[README Factory (FR)](https://azur-tsx.github.io/README-Factory/)** — Because everyone deserves a half-decent GitHub profile, even if they don't know what `markdown` is. Answer a few questions, get a readme, pretend your repo is alive.  
-<a href="https://Azur-tsx.github.io/README-Factory/"><img src="./assets/rmf.svg" alt="rmf logo"/></a>
-
-- **KMEasy (FR)** — A mileage tracker for caregivers and field workers who'd rather not spend their evenings doing math.   
-Just enter the addresses you visit, and KMEasy will calculate your routes automatically using the Google Maps API.   
-
-## 🚧 Work in Progress
-
-I’m polishing my old projects to build a proper portfolio.  
-It takes time when you spend 3 hours refactoring a `div` just to center it.
-
-## 📈 Useless Stats That Look Cool
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azur-tsx&layout=compact&langs_count=8&theme=tokyonight)
-
-## 📬 Contact
-
-📩 azur-tsx@proton.me   
-🕳️ Or whisper into the void. I might hear it.
-
----
-
-> _If you're still reading this, please leave. You deserve better. So do I._
+Have a project in mind or a question about training? → **[azur-tsx@proton.me](mailto:azur-tsx@proton.me)**
