@@ -49,7 +49,7 @@ I'm **Azur**, a freelance web developer and a trainer for future web developers.
 |---|---|
 | **[DevHub](https://azur-tsx.github.io/devhub/)** | A curated resource hub for web development students: guides, links and references, organised by technology. |
 | **[README Factory](https://azur-tsx.github.io/README-Factory/)** | A guided generator that turns a few answers into a clean README for student projects. |
-| **KMEasy** | A mileage tracker for caregivers and field workers: enter the addresses, routes are calculated via the Google Maps API. |
+| **KMEasy (Private)** | A mileage tracker for caregivers and field workers: enter the addresses, routes are calculated via the Google Maps API. |
 
 ## Teaching
 
